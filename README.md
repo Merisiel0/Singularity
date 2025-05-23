@@ -7,7 +7,7 @@ Enjoy.
 
 ## Tech used:
 
-C++, Vulkan, SDL3, EnTT, GLM, vcpkg, CMake, stb
+C++, Vulkan, SDL3, GLM, vcpkg, CMake
 
 ## Prerequisites:
 
