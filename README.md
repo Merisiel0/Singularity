@@ -25,4 +25,4 @@ Environment variables:
 1. Clone this repository
 2. Open with your code editor of choice (vscode and visual studio are confirmed to work)
 3. Wait for CMake to finish generating build files
-4. Launch the program with this command: ./Singularity --xy [RESOLUTION_]>x[RESOLUTION_Y] --shader [path/to/shader]
+4. Launch the program with this command: ./Singularity --xy widthxheight --shader path/to/shader
