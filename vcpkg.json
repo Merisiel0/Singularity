@@ -1,0 +1,14 @@
+{
+  "dependencies": [
+    "glm",
+    {
+      "name": "sdl3",
+      "features": [
+        "vulkan",
+        "x11"
+      ]
+    },
+    "vulkan",
+    "vulkan-memory-allocator"
+  ]
+}
